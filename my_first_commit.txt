@@ -1,0 +1,5 @@
+Steps for my commits:
+
+1.- Git add .
+2.- Git commit -m ''Add my commit''
+3.- git push origin <branch>
